@@ -114,7 +114,7 @@
 
 | Dashboard | Capture | Archive |
 |:---------:|:-------:|:-------:|
-| ![Dashboard](https://via.placeholder.com/250x450/1E1E2E/8B5CF6?text=Dashboard) | ![Capture](https://via.placeholder.com/250x450/1E1E2E/10B981?text=Capture) | ![Archive](https://via.placeholder.com/250x450/1E1E2E/F59E0B?text=Archive) |
+| ![Dashboard](https://via.placeholder.com/250x450/1E1E2E/8B5CF6?text=Dashboard) | ![Capture](https://via.placeholder.com/250x450/1E1E2E/10B981?text=Capture) | ![Archive](https://private-user-images.githubusercontent.com/123703001/523390411-770e849d-3459-47a6-a8a9-fadd4bac0477.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUwNjQ2NzksIm5iZiI6MTc2NTA2NDM3OSwicGF0aCI6Ii8xMjM3MDMwMDEvNTIzMzkwNDExLTc3MGU4NDlkLTM0NTktNDdhNi1hOGE5LWZhZGQ0YmFjMDQ3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwNlQyMzM5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDlkNzgyZDQ0YTE2Zjg5MzRjMjkxYjI2MDc0ZjFhNWRhMjU4YmU1MTAzMWJiYWFjMDczMzZjZDZhZGViYmRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZsEVck44mwSnY-ftIuBGk27XDlW-sGbeFoLwzgUbNvE) |
 
 </div>
 
